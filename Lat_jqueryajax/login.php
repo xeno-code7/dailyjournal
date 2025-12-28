@@ -57,7 +57,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Login | My Daily Journal</title>
+        <title>Welcome To My Daily Journal</title>
         <script>
             function benar() {
                 const this_card = document.getElementById("manipulate_this");
